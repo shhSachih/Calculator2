@@ -2,3 +2,4 @@
 This repository is about my projects that is made by Me During My Web Development Internship at CodSoft. This Repository Contains three task that provided by CodSoft during my Internship.
 Calculator In my Third Task I created Calculator With the Help of HTML , CSS and Java Script , through Which you can Do Any type of Calculations.
 ThankYou !!!
+![Screenshot (17)](https://github.com/shhSachih/calculator2/assets/143243162/cf21d18b-c16f-4c13-a70f-8663a1bf15cc)
